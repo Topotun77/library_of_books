@@ -1,0 +1,50 @@
+[
+    [
+        {
+            "title": "Book1",
+            "author": "Autor",
+            "year": 1986,
+            "status": "выдана"
+        },
+        {
+            "title": "1986",
+            "author": "Оруэлл",
+            "year": 2020,
+            "status": "в наличии"
+        },
+        {
+            "title": "Python для чайников",
+            "author": "Гвидо ван Россум",
+            "year": 1991,
+            "status": "в наличии"
+        },
+        {
+            "title": "book2",
+            "author": "qwert",
+            "year": 2023,
+            "status": "в наличии"
+        }
+    ],
+    [
+        {
+            "user": "vasya_pupkin",
+            "passwd": "c0253132e42b87a807d2902a277b555f2e231c16",
+            "age": 13
+        },
+        {
+            "user": "pythonist",
+            "passwd": "5bdd9bd49e7f3224e09d61f88b940f0790a2e2b6",
+            "age": 25
+        },
+        {
+            "user": "alex",
+            "passwd": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+            "age": 23
+        },
+        {
+            "user": "qwerty",
+            "passwd": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+            "age": 24
+        }
+    ]
+]
