@@ -294,7 +294,8 @@ class LibraryOfBooks:
                         and (not available or i.status == 'в наличии')):
                     res.append(i)
                 try:
-                    if int(find_str) == i.year:
+                    if (int(find_str) == i.year
+                            and (not available or i.status == 'в наличии')):
                         res.append(i)
                 except ValueError:
                     pass
