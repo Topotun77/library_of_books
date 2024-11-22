@@ -1,7 +1,7 @@
 # Система управления библиотекой книг
 
-### В видео, представленном ниже показан процесс работы с приложением:
-[![Посмотрите видео](https://github.com/Topotun77/library_of_books/blob/master/Media/ScreenShot01.JPG?raw=true)](https://github.com/Topotun77/library_of_books/blob/master/Media/video.mp4?raw=true)
+### В видео, представленном ниже, показан процесс работы с приложением:
+[![Посмотрите видео](https://github.com/Topotun77/library_of_books/blob/master/Media/ScreenShot01.JPG?raw=true)](https://disk.yandex.ru/d/-ZYmMZO-oeZToA/video.mp4)
 
 Данный проект представляет собой консольное приложение по ведению учета книг в библиотеке и позволяет производить 
 следующие операции: 
